@@ -28,7 +28,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 ## Screenshot of App
 
 <img src="./images/Fitness-1.jpg">
-<img src="./images/Fitness-2.jpg">
+<img src="./images/fitness-2.jpg">
 
 ## Author
 
